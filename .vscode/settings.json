@@ -1,0 +1,5 @@
+{
+  "csharp.namespace.addUsingsOnCreation": true,
+  "csharp.namespace.enabled": true,
+  "csharp.namespace.style": "fileScoped"
+}
